@@ -1,0 +1,20 @@
+.navbarStyle{
+    background: #00152E;
+}
+
+.fundo-logo{
+background: rgba(48,0,70,1);
+background: -moz-linear-gradient(top, rgba(48,0,70,1) 0%, rgba(104,11,132,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(48,0,70,1)), color-stop(100%, rgba(104,11,132,1)));
+background: -webkit-linear-gradient(top, rgba(48,0,70,1) 0%, rgba(104,11,132,1) 100%);
+background: -o-linear-gradient(top, rgba(48,0,70,1) 0%, rgba(104,11,132,1) 100%);
+background: -ms-linear-gradient(top, rgba(48,0,70,1) 0%, rgba(104,11,132,1) 100%);
+background: linear-gradient(to bottom, rgba(48,0,70,1) 0%, rgba(104,11,132,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#300046', endColorstr='#680b84', GradientType=0 );
+
+}
+.fundo-logo img{
+    width: 50%;
+    text-align: center;
+    padding: 140px 0px 145px 0px;    
+}
